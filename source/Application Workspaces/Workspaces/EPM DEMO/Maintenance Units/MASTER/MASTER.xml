@@ -1,0 +1,7 @@
+<XFProjectFile>
+    <itemName>MASTER</itemName>
+    <projectItemType>DashboardMaintenanceUnit</projectItemType>
+    <projectItemChildType>Unknown</projectItemChildType>
+    <sourceCodeFileName />
+    <content><![CDATA[<maintenanceUnit name="MASTER" workspace="EPM Days Finland" description="" uiPlatformType="WpfOrSilverlight" accessGroup="Everyone" maintenanceGroup="Everyone" wsAssemblyService="" />]]></content>
+</XFProjectFile>

@@ -1,0 +1,7 @@
+<XFProjectFile>
+    <itemName>EPMDEMO</itemName>
+    <projectItemType>WorkspaceAssembly</projectItemType>
+    <projectItemChildType>Unknown</projectItemChildType>
+    <sourceCodeFileName />
+    <content><![CDATA[<workspaceAssembly name="EPMDEMO" workspace="EPM DEMO" maintenanceUnit="MASTER" description="" compilerLanguage="CSharp" />]]></content>
+</XFProjectFile>
